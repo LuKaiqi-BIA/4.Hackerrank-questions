@@ -1,2 +1,4 @@
 # Hackerrank questions
- These two questions are obtained from a test preparation kit which obtained from Hackerrank. Main skill tested: data structure
+ These two questions are provided by a test preparation kit which obtained from Hackerrank. 
+ 
+ Main skill tested: data structure
